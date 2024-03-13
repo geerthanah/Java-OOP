@@ -1,0 +1,1 @@
+Clothing,C-0001,Blouse,10,2500.0,Large,10
